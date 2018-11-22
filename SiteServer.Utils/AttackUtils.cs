@@ -3,6 +3,9 @@ using Ganss.XSS;
 
 namespace SiteServer.Utils
 {
+    /// <summary>
+    /// 测试
+    /// </summary>
     public static class AttackUtils
     {
         private static readonly HtmlSanitizer Sanitizer = new HtmlSanitizer();
